@@ -1,0 +1,109 @@
+/* Universal Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito Sans', -apple-system, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Section Styles */
+
+header {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+main {
+    margin: 0 auto;
+    width: 80vw;
+}
+
+/* Element & Class Styles */
+
+.colors,
+.fonts,
+.text-styles {
+    border: 2px solid lightgrey;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+main div {
+    padding: 20px 20px;
+}
+
+/* Colors */
+
+.teal,
+.turquoise,
+.light-cyan {
+    display: inline-block;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 0;
+    text-align: center;
+    height: 100px;
+    width: 250px;
+}
+
+.teal {
+    color: white;
+    background-color: #008080;
+}
+.turquoise {
+    color: white;
+    background-color: #40E0D0;
+}
+.light-cyan {
+    color: #000;
+    background-color: #E0FFFF;
+}
+
+/* Fonts */
+
+.nunito-sans,
+.open-sans,
+.poppins {
+    display: inline-block;
+    border: solid lightgrey;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 30px;
+    margin-left: 0;
+    width: 450px;
+    position: relative;
+    top: 20px;
+}
+
+.title {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Text Styles */
+.text-styles div {
+    margin: 10px 0 30px;
+    padding: 0;
+}
+
+.text-styles div ul {
+    margin: 5px 0 0 20px;
+}
