@@ -8,7 +8,7 @@
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Inspiration](#inspiration)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -36,10 +36,10 @@ Project is: _completed_.
 - Add navigation and splitting up the site so that each section has its own HTML page.
 
 
-## Inspiration
+## Acknowledgements
 - This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
 - My style guide was inspired by the following [basic example site](https://content.codecademy.com/PRO/independent-practice-projects/website-design-system/example/index.html).
 
 
 ## Contact
-Created by [Peter Kibuchi](https://peterkibuchi.com) - feel free to contact me!
+Created by [Peter Kibuchi](https://www.peterkibuchi.com).
